@@ -1,4 +1,1 @@
-Lista de Características:
-1. Sistema de usuarios
-2. Dashboard principal
-3. Reportes basicos
+Lista de características:\n1. Sistema de usuarios\n2. Dashboard principal\n3. Reportes básicos
